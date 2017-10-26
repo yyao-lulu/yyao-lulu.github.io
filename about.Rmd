@@ -6,7 +6,7 @@ This personal website is construced based on R Markdown with RStudio (Version 1.
 
 My resume is attached below.
 
-<img src="images/resume.png">
+<img src="images/resume.png", width=75%>
 
 
 [Back to home](index.html)
