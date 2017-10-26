@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"Yunqiu Yao\"\noutput_dir: \".\"\nnavbar:\n  title: \"Yunqiu Yao\"\n  right:\n    - text: \"About\"\n      href: about.html\n    - icon: fa-envelope fa-lg\n      href: mailto:<yunqiu.yao@columbia.edu>\n    - icon: fa-github fa-lg\n      href: http://github.com/yyao-lulu/\noutput:\n  html_document",
+    "created" : 1508981692488.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1589089039",
+    "id" : "9A515D2F",
+    "lastKnownWriteTime" : 1508981738,
+    "last_content_update" : 1508981738657,
+    "path" : "~/Documents/17Fall/DS1/HW/p8105_hw4_yy2827/yyao-lulu.github.io/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
