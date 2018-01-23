@@ -6,11 +6,7 @@ title: "Yunqiu Yao"
 ### *Welcome to my website.*
 
 
-I am currently a master student at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/), majoring in Biostatistics (Theory & Method Track). I graduated from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in June 2017, with a BS in Food Science and Engineering.
-
-Some of my projects during my graduate study in Columbia are [here](projects.html).
-
-For more about my professional and academic experience, please see my  [resume](about.html).
+I am currently a master student at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/), majoring in Biostatistics (Theory & Method Track). I graduated from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in June 2017, with a BS in Food Science and Engineering. Some of my projects during my graduate study in Columbia are [here](projects.html). For more about my professional and academic experience, please see my  [resume](about.html).
 
 You can contact me via email on the upper-right corner of the page, as well as my Linkedin and Github account. <br>
 
