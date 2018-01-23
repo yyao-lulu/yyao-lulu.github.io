@@ -10,7 +10,9 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/yyao-lulu/
   left:
-  - text: "About"
+  - text: "About me"
     href: about.html
+  - text: "Projects"
+    href: projects.html
 output:
   html_document

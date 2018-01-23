@@ -1,12 +1,11 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-This personal website is construced based on R Markdown with RStudio (Version 1.0.153) as a homework of the course [Data Science I](http://jeffgoldsmith.com/DSI/).
+<center><img src="images/resume.jpg" alt="Resume"  width=75% height="3000"></center>
 
-My resume is attached below.
+You can download my resume [here](resume.pdf)
 
-<img src="images/resume.png", width=75%>
-
+<br><br><br><br>
 
 [Back to home](index.html)
