@@ -5,7 +5,5 @@ title: "About me"
 <center><img src="images/resume.jpg" alt="Resume"  width=75% height="3000"></center>
 
 You can download my resume [here](resume.pdf)
-
-<br><br><br><br>
-
+<br><br>
 [Back to home](index.html)
