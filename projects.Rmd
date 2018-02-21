@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-\noindent__1. Why a TED talk popular?__
+\noindent__1. Why is a TED talk popular?__
 
 This is a final project of the course [Data Science I](http://jeffgoldsmith.com/DSI/). Here we utilized R to statistically analyze the 2550 TED talks from June 2006 to Sept. 2017 that are hosted on official TED website. We primarily based our analysis on the topic and speakers. Then according to the comment words selected by the audience, we conducted a sentiment analysis to show the relationship between views and sentiment score. Finally, we built a linear model taking views as response and several variables as predictors. The model fits the data quite well and can be used for future prediction. For more details, please visit the project [website](https://yyao-lulu.github.io/TED-Project/).<br><br>
 
