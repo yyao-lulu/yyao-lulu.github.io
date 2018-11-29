@@ -1,10 +1,10 @@
-name: "Yunqiu Yao"
+name: "Lulu Yao"
 output_dir: "."
 navbar:
-  title: "Yunqiu Yao"
+  title: "Lulu Yao"
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:<yunqiu.yao@columbia.edu>
+      href: mailto:<yy2827@columbia.edu>
     - icon: fa-linkedin-square fa-lg
       href: https://www.linkedin.com/in/yunqiu-yao/
     - icon: fa-github fa-lg

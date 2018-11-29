@@ -1,16 +1,18 @@
 ---
-title: "Yunqiu Yao"
+title: "Yunqiu (Lulu) Yao"
 ---
 
 
 ### *Welcome to my website.*
 
+<center><img src="images/image.jpg" width=75%></center>
 
-I am currently a master student at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/), majoring in Biostatistics (Theory & Method Track). I graduated from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in June 2017, with a BS in Food Science and Engineering. Some of my projects during my graduate study in Columbia are [here](projects.html). For more about my professional and academic experience, please see my  [resume](about.html).
+<br>
 
-You can contact me via email on the upper-right corner of the page, as well as my Linkedin and Github account. <br>
+I am currently a second-year master student at [Columbia University](https://www.columbia.edu/), with a major in Biostatistics (Theory & Method Track). I graduated from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in June 2017, with a BS in Food Science and Engineering. Some of my projects during my graduate study in Columbia are [here](projects.html). For more about my professional and academic experience, please see my  [resume](about.html).
 
-<center><img src="images/imagec.jpg" width=75%></center>
+You may reach out to me via email on the upper-right corner of the page, as well as my Linkedin and Github account.
 
+<br>
 <br>
 _This personal website is construced based on R Markdown with RStudio (Version 1.0.153)._
