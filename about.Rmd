@@ -2,8 +2,9 @@
 title: "About me"
 ---
 
-<center><img src="images/resume.jpg" alt="Resume"  width=75% height="3000"></center>
+<center><embed src="resume.pdf" width="850px" height="1150px" /></center>
 
+<br><br>
 
 PDF version can be downloaded [here](resume.pdf).
 <br><br><br><br>
